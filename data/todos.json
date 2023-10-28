@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk with some food"
+    },
+    {
+      "id": "2",
+      "text": "go to school"
+    },
+    {
+      "id": "4",
+      "text": "go market"
+    },
+    {
+      "id": "5",
+      "text": "learn math"
+    },
+    {
+      "id": "688454be-9251-4234-87be-64198e40ab9b",
+      "text": "go to shop"
+    },
+    {
+      "id": "e90238bd-7270-40f1-912c-1049fd8d8d44",
+      "text": "play cricket"
+    },
+    {
+      "id": "25b65149-66cd-4d54-b947-72b28f89e1cc",
+      "text": ""
+    }
+  ]
+}
